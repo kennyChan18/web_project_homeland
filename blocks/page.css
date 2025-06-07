@@ -3,10 +3,8 @@ body {
 }
 
 .page {
-  position: relative;
-  width: 1280px;
-  height: 2008px;
-  margin: 0 auto;
+  width: 100%;
+  margin: auto;
   color: white;
   font-family: "Inter";
 }
