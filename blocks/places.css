@@ -1,0 +1,39 @@
+.places {
+  max-width: 987px;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  margin: 0 auto 90px;
+}
+
+.places__content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 48px 40px;
+}
+
+.places__header {
+}
+
+.places__link {
+}
+
+.places__link_header {
+}
+
+.places__link_artist {
+}
+
+.places__link_artist {
+}
+
+.places__image {
+  width: 100%;
+}
+
+.places__paragraph {
+}
+
+.places__button {
+}
