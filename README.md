@@ -9,6 +9,7 @@ La pagina web galeria de arte, nos comparte un paisaje de algunos lugares donde 
 - HTML5 semántico
 - CSS archivos de organizacion BEM
 - Flexbox
+- Grid layout
 - Posicionamiento
 - Mediaqueries
 - Diseño responsivo
