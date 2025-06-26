@@ -112,6 +112,10 @@
     width: 100vw;
     margin-left: -16px;
   }
+
+  .places__button {
+    font-size: 14px;
+  }
 }
 
 @media screen and (min-width: 545px) and (max-width: 1024px) {
